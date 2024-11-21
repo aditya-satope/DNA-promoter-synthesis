@@ -6,14 +6,13 @@ The primary objective of this project is to investigate promoter structures and 
 
 ## What I Learned
 
-Throughout this project, I gained valuable insights into several key areas:
+Throughout this research project, I gained valuable insights into several key areas:
 
 - **Data Mining:** Finding the appropriate organism and its dataset proved to be a challenging endeavor. It required extensive research and evaluation to identify the most suitable data source for our project.
 
 - **Research and Problem-Solving:** Dealing with a complex problem like promoter synthesis taught me the importance of breaking it down into smaller, manageable tasks. By addressing each problem one at a time, I learned how to systematically approach and overcome challenges.
 
-- **Utilizing GANs:** The use of Generative Adversarial Networks (GANs) introduced me to a powerful tool for generating synthetic data. Learning how to select the right number of layers in GAN architecture was crucial for optimizing the performance of our models.
-
+- **Utilizing GANs:** The use of Generative Adversarial Networks (GANs) introduced me to a powerful tool for generating synthetic data.
 
 ## Data Selection
 
@@ -85,6 +84,6 @@ Both DCGAN and WGAN-GP were trained to generate synthetic promoters based on the
 
 ## Conclusion
 
-The culmination of the project demonstrates significant progress in the synthesis of promoters. Particularly, the synthetic promoter identified as WGAN 525 exhibited superior performance compared to its natural counterpart, FP004187_Hsp70Ba_1. The promoter activity of FP004187_Hsp70Ba_1 was measured at 0.96, while the synthetic WGAN 525 achieved a higher promoter activity score of 0.99. This outcome underscores the efficacy of the methodology in generating promoters with enhanced functionality and efficiency. Moving forward, the advancements made in this project hold promise for revolutionizing gene expression studies and biotechnological applications, opening doors to novel avenues in synthetic biology.
+The culmination of the project demonstrates significant progress in the synthesis of promoters. Particularly, the synthetic promoter identified as WGAN 525 exhibited superior performance compared to its natural counterpart, FP004187_Hsp70Ba_1. The promoter activity of FP004187_Hsp70Ba_1 was measured at 0.96, while the synthetic WGAN 525 achieved a higher promoter activity score of 0.98. This outcome underscores the efficacy of the methodology in generating promoters with enhanced functionality and efficiency. Moving forward, the advancements made in this project hold promise for revolutionizing gene expression studies and biotechnological applications, opening doors to novel avenues in synthetic biology.
 
 This project aims to contribute to the field of synthetic biology by providing a more efficient method for synthesizing promoters, paving the way for advancements in gene expression studies and biotechnological applications.
